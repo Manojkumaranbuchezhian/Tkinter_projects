@@ -121,7 +121,7 @@ if __name__ == "__main__" :
 	root = Tk() 
 
 	# Set the background colour of GUI window 
-	root.configure(background = 'light green') 
+	root.configure(background = 'indian red') 
 
 	# Set the configuration of GUI window 
 	root.geometry("350x125") 
